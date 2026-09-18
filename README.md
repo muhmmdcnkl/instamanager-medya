@@ -4,3 +4,6 @@ MamiBot (@mamibot_ai) yayın medyası. Instagram Graph API dosya yüklemesi kabu
 etmediği için yayınlanacak görsel/videolar buradan raw URL ile servis edilir.
 
 Bu repoya YALNIZCA yayın onayı verilmiş dosyalar konur (instamanager/yukle.py).
+
+GitHub Pages (YouTube OAuth ana sayfası + gizlilik) yalnızca `docs/` klasöründen
+yayınlanır; medya klasörleri Pages derlemesine girmez (Actions depolama kotası).
